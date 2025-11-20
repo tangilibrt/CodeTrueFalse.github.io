@@ -1,6 +1,6 @@
 solutions:
   enable: true
-
+  title: "Nos Solutions"
   solutionsList:
     - name: "Phyllia"
       subtitle: "IA Écologique et Souveraine"
