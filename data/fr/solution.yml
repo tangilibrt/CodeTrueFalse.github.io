@@ -1,0 +1,82 @@
+pricing:
+  enable: true
+  title: "Tarification"
+  features:
+    - name: "Outils de Scraping"
+      key: "basicScraping"
+    - name: "Support Personnalisé"
+      key: "customizedSupport"
+    - name: "Trackers Illimités"
+      key: "unlimitedTrackers"
+    - name: "Sites Illimités"
+      key: "unlimitedSites"
+    - name: "Centralisation des Recherches"
+      key: "centralizedSearch"
+    - name: "Suivi Continu"
+      key: "continuousTracking"
+    - name: "Filtres Personnalisables"
+      key: "customFilters"
+    - name: "Mises à Jour en Temps Réel"
+      key: "realTimeUpdates"
+
+  pricingTable:
+    - name: "Abonnement Standard"
+      fee: "Licence : 300€"
+      price: "Sur Demande"
+      type: ""
+      content: "* Traking sur **8 sites web** dans un domaine d'expertise\n
+        * **Un seul** utilisateur disponible sur la licence\n
+        * Utilisateur additionnel : Frais additionnels par utilisateur supplémentaire\n
+        * Sites supplémentaires : Frais additionels pour chaque site au-delà des 8 inclus"
+      unlimitedTrackers: false
+      basicScraping: true
+      unlimitedSites: false
+      customizedSupport: true
+      centralizedSearch: false
+      continuousTracking: true
+      customFilters: true
+      realTimeUpdates: true
+      button:
+        label: "Commencer"
+        link: "/fr/contact/"
+
+    - name: "True False Pro"
+      fee: "Licence : 300€"
+      price: "Sur Demande"
+      type: ""
+      content: "* Traking sur **15 sites web** dans un domaine d'expertise\n
+        * **Trois utilisateurs** disponibles sur la licence\n
+        * **Utilisateur additionnel** : Frais additionnels par utilisateur supplémentaire\n
+        * **Sites supplémentaires** : Frais additionnels pour chaque site au-delà des 15 inclus"
+      unlimitedTrackers: false
+      unlimitedSites: false
+      basicScraping: true
+      customizedSupport: true
+      centralizedSearch: true
+      continuousTracking: true
+      customFilters: true
+      realTimeUpdates: true
+      button:
+        label: "Commencer"
+        link: "/fr/contact/"
+
+    - name: "True False Pro+"
+      price: "Sur Demande"
+      fee: "Licence : 300€"
+      type: ""
+      content: "* Traking sur **30 sites web** par domaine d'expertise\n
+        * Jusqu'à **3 domaines d’expertise**\n
+        * Jusqu’à **10 utilisateurs disponibles** sur la licence\n
+        * **Utilisateur additionnel** : Frais additionnels par utilisateur supplémentaire\n
+        * **Sites supplémentaires** : Frais additionnels pour chaque site au-delà des 30 inclus"
+      unlimitedTrackers: true
+      unlimitedSites: true
+      customizedSupport: true
+      basicScraping: true
+      centralizedSearch: true
+      continuousTracking: true
+      customFilters: true
+      realTimeUpdates: true
+      button:
+        label: "Commencer"
+        link: "/fr/contact/"

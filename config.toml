@@ -50,9 +50,9 @@ url= "/service/"
 weight = 4
 
 [[menu.languages_en_main]]
-identifier = 'pricing'
-name = "Pricing"
-url= "/pricing/"
+identifier = 'solution'
+name = "Solution"
+url= "/solution/"
 weight = 5
 
 [[menu.languages_en_main]]
@@ -87,9 +87,9 @@ url= "/service/"
 weight = 4
 
 [[menu.languages_fr_main]]
-identifier = 'pricing'
-name = "Tarifs"
-url= "/pricing/"
+identifier = 'solution'
+name = "Solution"
+url= "/solution/"
 weight = 5
 
 [[menu.languages_fr_main]]
